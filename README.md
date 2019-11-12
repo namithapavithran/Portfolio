@@ -27,3 +27,4 @@ Myself with my friend developed this app. Decided on the design aspects along wi
 ### Personnal Projects
 
 ### Foodist
+<img src="https://github.com/namithapavithran/Portfolio/blob/master/images/Foodist%20pages.png" height="400" />
