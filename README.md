@@ -13,3 +13,8 @@ I am a self learner and that makes me happy always. I could actively participate
 ### WiproGo - published in App Store
 
 <img src="https://github.com/namithapavithran/Portfolio/blob/master/images/WiproGo-pages.png" height="400" />
+
+WiproGO is a first of its kind enterprise app, aimed at simplifying the process of getting a customer product tested at Wipro Tarang Lab. Using this app, user can quickly browse through Lab services and easily book the Lab for testing.
+
+#### My contribution
+I was one among  3 iOS developers worked for this app. I have worked in all the pages of this app for different features, added constraints to all the pages apart from participating in design discussions.
