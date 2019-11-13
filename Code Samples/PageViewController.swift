@@ -15,9 +15,6 @@ class PageViewController: UIPageViewController {
     var endPoint = "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/search?type="
     let numberOfPages = 5
     var recipeList: RecipeList?
-    //var recipeMoreInfo: [Recipe]?
-
-    //TODO: - remove recipes without instructionlist
 
     override func viewDidLoad() {
         super.viewDidLoad()
