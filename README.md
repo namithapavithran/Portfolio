@@ -28,10 +28,11 @@ Myself with a friend developed this app. Decided on the design aspects along wit
 
 ### Foodist
 <img src="https://github.com/namithapavithran/Portfolio/blob/master/images/Foodist%20pages.png" height="400" />
-Foodist is a recipe app for everyone who likes cooking. It shows recipes based on the preferences made by the user. Important feature of Foodist is that it will read out the recipes and user could speak to the app to control recipe playing(speech recognition)
+Foodist is a recipe app for everyone who likes cooking. It shows recipes based on the preferences made by the user. Important feature of Foodist is that it will read out the recipes and user could speak to the app to control recipe playing(speech recognition).
+
 #### My contribution
 I was respnsible for main page and preference page in this app. I lead the developmental flow and was giving support to my friend who made recipe detail page.
 
 ### MovieBuff
 
-MovieBuff shows all the popular movies and currently playing movies. It has a detail page which shows movie details and cast details.
+MovieBuff shows all the popular movies and currently playing movies. It has a detail page which shows movie details and cast details. The app will also search for the movie names and it automatically adds new movies to the list when scrolls down.
