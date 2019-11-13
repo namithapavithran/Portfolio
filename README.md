@@ -18,7 +18,7 @@ WiproGO is a first of its kind enterprise app, aimed at simplifying the process 
 
 #### My contribution
 I was one among  3 iOS developers worked for this app. I have worked in all the pages of this app for different features, added constraints to all the pages apart from participating in design discussions.
-### MOBE - waiting for release
+### MOBE 
 
 MOBE is an app to book a table in advance in registered outlets of Ministry of Bar Exchnage of India. It checks for the location of the customer before proceeding to booking, and sends notification to Bar on the booking.
 #### My contribution
