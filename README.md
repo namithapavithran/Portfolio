@@ -6,7 +6,7 @@
  </p>
 
 ## Namitha Pavithran
-Hey there, I am Namitha, a previous employee of Wipro Technologies, India where I was an iOS developer for last 2 years of my 5 year tenure. Currently I live in Kerala,India.
+Hey there, I am Namitha, an iOS developer with 3 years of experience - currently working in Infosys Limited. Currently I live in Kerala,India.
 
 I am a self learner and that makes me happy always. I could actively participate in whole app life cycle, from conceptualising the ideas to finally seeing the app grow. Check out some of my work below and please feel free to contact me!
 
